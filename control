@@ -1,0 +1,10 @@
+Package: com.brutaltrip.hack
+Name: obj-c menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: mod menu by osiris hacks
+Maintainer: FxL Old Mod Menu
+Author: dulces suenos
+Section: Tweaks
+Homepage: https://t.me/brutaltrip
